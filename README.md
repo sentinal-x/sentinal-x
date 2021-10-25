@@ -1,3 +1,4 @@
+## Simon's README:
 - Hi, I’m Simon James Puttock (@sentinal-x), an BSc Computer Science Undergraduate at the University Of Exeter.
 - I'm really interested in Artifical Intelligence, Computer Representations, and Game Development.
 - In my free time I like to make stuff. I'm currently producing an ambient music album which should be released soon.
